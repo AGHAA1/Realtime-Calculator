@@ -13,7 +13,7 @@ Includes **custom input validation** to prevent invalid operator sequences and p
 ## Setup Instructions
 1. Clone the repository:  
 ```bash
-git clone https://github.com/yourusername/realtime-calculator.git
+git clone https://github.com/AGHAA1/Realtime-Calculator.git
 ```
 2. Change Directory:
 ```bash
