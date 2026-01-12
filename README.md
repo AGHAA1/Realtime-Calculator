@@ -1,16 +1,17 @@
-# calculator_app
+# Real-Time Calculator (Flutter)
 
-A new Flutter project.
+A Flutter-based calculator app that evaluates mathematical expressions **on-the-fly** as the user types.  
+Includes **custom input validation** to prevent invalid operator sequences and provides a smooth, responsive user experience.  
 
-## Getting Started
+## Features
+- Real-time evaluation of mathematical expressions without pressing an equals button
+- Custom input validation to prevent invalid expressions (e.g., consecutive operators)
+- Dynamic updating of results while typing or deleting input
+- Responsive and intuitive UI built with Flutter widgets
+- Clean separation of UI and business logic
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Setup Instructions
+1. Clone the repository:  
+```bash
+git clone https://github.com/yourusername/realtime-calculator.git
+```
