@@ -23,3 +23,7 @@ cd realtime-calculator
 ```bash
 flutter run
 ```
+
+## Screenshots
+![calc_1](https://github.com/user-attachments/assets/2a23e267-c533-4431-b8b6-e2e072790db6)
+![calc_2](https://github.com/user-attachments/assets/31cd6510-8ed7-4924-a88b-48695849cc86)
