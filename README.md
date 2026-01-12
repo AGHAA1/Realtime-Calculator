@@ -15,3 +15,11 @@ Includes **custom input validation** to prevent invalid operator sequences and p
 ```bash
 git clone https://github.com/yourusername/realtime-calculator.git
 ```
+2. Change Directory:
+```bash
+cd realtime-calculator
+```
+3. Run the app:
+```bash
+flutter run
+```
